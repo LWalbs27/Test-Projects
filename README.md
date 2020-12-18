@@ -1,2 +1,4 @@
-# Test-Projects
-This is a second test run setting up a project on github
+Custom read-me setup placeholder till I decide on next project
+
+Applying to IUPUI 
+Computer Science BA
